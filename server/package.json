@@ -1,0 +1,35 @@
+{
+  "name": "crud_server",
+  "version": "1.0.0",
+  "description": "This is the server side of MERN crud app",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MuhammadAsad878/crud-app-react-express-mongodb-mern.git"
+  },
+  "keywords": [
+    "crud",
+    "app",
+    "node",
+    "express",
+    "mongodb",
+    "react",
+    "mern"
+  ],
+  "author": "Muhammad Asad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MuhammadAsad878/crud-app-react-express-mongodb-mern/issues"
+  },
+  "homepage": "https://github.com/MuhammadAsad878/crud-app-react-express-mongodb-mern#readme",
+  "dependencies": {
+    "bootstrap": "^5.3.6",
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "mongoose": "^8.14.2"
+  }
+}
